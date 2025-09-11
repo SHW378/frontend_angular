@@ -25,3 +25,9 @@ Cada componente incluye:
 - Spec (.spec.ts): Pruebas unitarias (opcional al inicio).
 Se comunican entre sí mediante inputs (entradas) y outputs (eventos).
 Se reutilizan para contruir pantallas más complejas 
+
+# Ciclo de vida en un componente 
+Angular provee hooks para controlar lo que sucede en distintas fases: 
+- ngOnInit() -> al inicializarse.
+- ngOnChanges() -> cuando cambian las propiedades
+- ngOnDestroy() -> cuando se destruye
