@@ -15,3 +15,13 @@ Angular, gestionado por un equipo dedicado de Google, ofrece un amplio conjunto 
 - Todo comienza en un módulo raíz (AppModule o app)
 - Una aplicacion está formada por componentes, organizados dentro de módulos
 - Angular utiliza el patrón MVC adaptado, donde los componentes controlan la vista y los servicios gestionan la lógica de negocio.
+
+# ¿Qué son los componentes?
+Son la unidad fundamental en Angular.
+Cada componente incluye: 
+- TypeScript (clase): lógica y datos.
+- HTML (plantilla): vista.
+- CSS/SCCS (estilos): apariencia.
+- Spec (.spec.ts): Pruebas unitarias (opcional al inicio).
+Se comunican entre sí mediante inputs (entradas) y outputs (eventos).
+Se reutilizan para contruir pantallas más complejas 
