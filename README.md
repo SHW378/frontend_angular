@@ -1,4 +1,5 @@
 # Crear proyecto en angular
+ng version (verificar version)
 - ng new nombre-proyecto
 
 
