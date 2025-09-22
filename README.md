@@ -42,6 +42,6 @@ Angular provee hooks para controlar lo que sucede en distintas fases:
 # Jerarquía de componentes
 - Los componentes se organizan como un árbol jerárquíco
 - Un componente principal (AppComponent) suele contener otros componentes hijos.
-- Ejemplo:
+Ejemplo:
 - AppComponent -> barra de navegación, contenido, pie de página.
 - Dentro del contenido -> HomeComponent, AboutComponent, etc.
