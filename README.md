@@ -1,6 +1,8 @@
 # Crear proyecto en angular
 ng version (verificar version)
 - ng new nombre-proyecto
+- cd nombre-proyecto
+- ng serve (inicializar proyecto servidor local)
 
 
 # frontend_angular
@@ -36,3 +38,10 @@ Angular provee hooks para controlar lo que sucede en distintas fases:
 - ngOnInit() -> al inicializarse.
 - ngOnChanges() -> cuando cambian las propiedades
 - ngOnDestroy() -> cuando se destruye
+
+# Jerarquía de componentes
+- Los componentes se organizan como un árbol jerárquíco
+- Un componente principal (AppComponent) suele contener otros componentes hijos.
+- Ejemplo:
+- AppComponent -> barra de navegación, contenido, pie de página.
+- Dentro del contenido -> HomeComponent, AboutComponent, etc.
