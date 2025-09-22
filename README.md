@@ -24,7 +24,11 @@ Cada componente incluye:
 - CSS/SCCS (estilos): apariencia.
 - Spec (.spec.ts): Pruebas unitarias (opcional al inicio).
 Se comunican entre sí mediante inputs (entradas) y outputs (eventos).
-Se reutilizan para contruir pantallas más complejas 
+Se reutilizan para contruir pantallas más complejas
+
+
+# Crear proyecto en angular
+- ng new nombre-proyecto
 
 # Ciclo de vida en un componente 
 Angular provee hooks para controlar lo que sucede en distintas fases: 
