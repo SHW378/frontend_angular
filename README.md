@@ -3,7 +3,7 @@ ng version (verificar version)
 - ng new nombre-proyecto
 - cd nombre-proyecto
 - ng serve (inicializar proyecto servidor local)
-- ng generate component nombre-componente (generar componentes)
+- ng generate component nombre-componente (generar componentes) / ng g c nombre-componente
 
 
 # frontend_angular
