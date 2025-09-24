@@ -4,8 +4,8 @@ ng version (verificar version)
 - cd nombre-proyecto
 - ng serve (inicializar proyecto servidor local)
 - ng generate component nombre-componente (generar componentes) / ng g c nombre-componente
-
-
+- ng generate service nombre-servicio (generar servicios) / ng g services nombre-servicio
+  
 # frontend_angular
 Angular es un framework web que permite a los desarrolladores crear aplicaciones rápidas y confiables.
 Angular, gestionado por un equipo dedicado de Google, ofrece un amplio conjunto de herramientas, API y bibliotecas para simplificar y optimizar tu flujo de trabajo de desarrollo. Angular te ofrece una plataforma sólida para crear aplicaciones rápidas y fiables que escalan con el tamaño de tu equipo y de tu código fuente
